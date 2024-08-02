@@ -1,6 +1,6 @@
-# R Pavani's Portfolio
+# R Pavani
 
-Welcome to my portfolio! I’m R Pavani, a third-year Computer Science undergraduate student with a passion for web development, application management, and exploring new technologies. 
+Welcome ! I’m R Pavani, a third-year Computer Science undergraduate student with a passion for atificial intelligence, web development, application management, and exploring new technologies. 
 
 ## About Me
 
