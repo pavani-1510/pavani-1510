@@ -8,6 +8,7 @@ Welcome ! I’m R Pavani, a third-year Computer Science undergraduate student wi
 - 👀 **Interests:** Web development, AI&ML, application management, and exploring new technologies.
 - 🌱 **Currently Learning:** Machine learning, Django, advanced Java, and improving my skills in web design and user experience.
 - 💞️ **Looking For:** Collaboration on open-source projects, innovative web applications, and exciting tech challenges.
+- 🌐 Portfolio: https://rpavani.pythonanywhere.com/
 - 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/r-pavani-kangundi/) | Email: pavanikangundi@gmail.com
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun Fact:** I once built a family website as a personal project, just for fun!
