@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @pavani-1510
+- 👀 I’m interested in web development, application management, and exploring new technologies.
+- 🌱 I’m currently learning Django, advanced Java, and improving my skills in web design and user experience.
+- 💞️ I’m looking to collaborate on open-source projects, innovative web applications, and any exciting tech challenges.
+- 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/r-pavani-kangundi/) or email me at pavanikangundi@gmail.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I once built a Family webiste as a personal project, just for fun!
