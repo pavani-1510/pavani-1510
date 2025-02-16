@@ -17,5 +17,5 @@ Welcome ! I’m R Pavani, a third-year Computer Science undergraduate student wi
 ## Skills
 
 - **Languages & Technologies:** HTML, CSS, JavaScript, Python, Django, Java, MySQL, Bootstrap
-- **Tools:** Git, GitHub, JBoss, Red Hat, PythonAnywhere, Machine learning
+- **Tools:** Git ,AWS , GitHub, JBoss, Red Hat, PythonAnywhere, Machine learning
 
