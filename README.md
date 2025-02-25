@@ -1,54 +1,80 @@
-# R Pavani
+<h1 align="center">  
+  Hey there! 👋 I'm R Pavani  
+</h1>  
 
-🎓 **Computer Science Undergraduate | AI & Web Development Enthusiast**  
+<p align="center">  
+  🎓 <b>Computer Science Undergraduate | AI & Web Development Enthusiast</b>  
+</p>  
 
-I’m a third-year Computer Science student at KL University, passionate about **Artificial Intelligence, Web Development, Application Management, and exploring new technologies**. I love collaborating on innovative projects and contributing to open-source communities.  
+<p align="center">  
+  <a href="https://www.linkedin.com/in/r-pavani-kangundi"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="mailto:pavanikangundi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
+  <a href="https://rpavani.pythonanywhere.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>  
+</p>  
 
 ---
 
 ## 🚀 About Me  
 
-🔹 **Interests:** Web Development, Deep Learning, AI & ML, Application Management, and UI/UX Design.  
-🔹 **Currently Learning:** Machine Learning, Deep Learning, Django, Advanced Java, Cloud Deployment.  
-🔹 **Looking for Collaborations:** Open-source projects, innovative web applications, and AI-driven solutions.  
-🔹 **Fun Fact:** I once built a family website just for fun!  
+👀 **Passionate about:** AI, Machine Learning, Deep Learning, Web Development, and Cloud Technologies.  
+🌱 **Currently learning:** Advanced Machine Learning, Deep Learning, Django, Cloud Deployment.  
+💡 **Looking for:** Exciting collaborations in AI, web applications, and open-source projects.  
+⚡ **Fun Fact:** I once built a **family website** just for fun! 😄  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Languages & Frameworks**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+### **💻 Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![JBoss](https://img.shields.io/badge/JBoss-E00?style=flat&logo=redhat&logoColor=white)  
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3670A0?style=flat&logo=python&logoColor=white)  
+### **🌐 Web Development**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### **⚙️ Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![JBoss](https://img.shields.io/badge/JBoss-E00?style=for-the-badge&logo=redhat&logoColor=white)  
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3670A0?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
 ## 📂 Featured Projects  
 
-🔹 [📚 Online Book Store](https://github.com/pavani-1510/OnlineBookStore) - A Python-based online bookstore system.  
-🔹 [🛡️ Real-Time Face Mask Detection](https://github.com/pavani-1510/Real-Time-Face-Mask-Detection) - A machine learning model to detect face masks.  
-🔹 [🎓 Student Admission Management System](https://github.com/pavani-1510/StudentAdmissionManagementSystem) - A Java-based student admission system.  
-🔹 [🧠 Brain Tumor Classification](https://github.com/pavani-1510/Brain-Tumor-Classification) - A deep learning model for brain tumor classification.  
-🔹 [💳 Online Fraud Detection](https://github.com/pavani-1510/OnlineFraudDetection) - Machine learning-based fraud detection system.  
+🔹 **[📚 Online Book Store](https://github.com/pavani-1510/OnlineBookStore)** – Python-based e-commerce system for books.  
+🔹 **[🛡️ Real-Time Face Mask Detection](https://github.com/pavani-1510/Real-Time-Face-Mask-Detection)** – AI-powered mask detection.  
+🔹 **[🎓 Student Admission Management System](https://github.com/pavani-1510/StudentAdmissionManagementSystem)** – Java-based student management system.  
+🔹 **[🧠 Brain Tumor Classification](https://github.com/pavani-1510/Brain-Tumor-Classification)** – AI-based brain tumor detection.  
+🔹 **[💳 Online Fraud Detection](https://github.com/pavani-1510/OnlineFraudDetection)** – Machine learning model for fraud detection.  
 
 ---
 
-## 📫 Connect With Me  
+## 📊 GitHub Stats  
 
-🌐 **Portfolio:** [rpavani.pythonanywhere.com](https://rpavani.pythonanywhere.com/)  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=pavani-1510&show_icons=true&theme=radical" alt="GitHub Stats">  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavani-1510&theme=radical" alt="GitHub Streak">  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavani-1510&layout=compact&theme=radical" alt="Top Languages">  
+</p>  
+
+---
+
+## 📫 Let's Connect!  
+
+🔗 **Portfolio:** [rpavani.pythonanywhere.com](https://rpavani.pythonanywhere.com/)  
 🔗 **LinkedIn:** [in/r-pavani-kangundi](https://www.linkedin.com/in/r-pavani-kangundi)  
 📧 **Email:** pavanikangundi@gmail.com  
-
 
