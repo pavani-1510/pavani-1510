@@ -66,11 +66,12 @@
 
 ## 📂 Featured Projects  
 
+🔹 **[💳 Brain Tumor Classification](https://github.com/pavani-1510/Brain_Tumor_Classification)** – Deep learning model for brain tumor classification.
+🔹 **[💳 Online Fraud Detection](https://github.com/pavani-1510/OnlineFraudDetectionAWS)** – Machine learning model for fraud detection.  
+🔹 **[📊 Placement Management System](https://github.com/pavani-1510)** – Spring Boot application for job tracking and interviews.    
+🔹 **[🎓 Student Admission Management System](https://github.com/pavani-1510/StudentAdmissionManagementSystem)** – Java-based web app for student admissions.  
 🔹 **[📚 Online Book Store](https://github.com/pavani-1510/OnlineBookStore)** – Django-based bookstore with admin controls and transactions.  
 🔹 **[🛡️ Real-Time Face Mask Detection](https://github.com/pavani-1510/Real-Time-Face-Mask-Detection)** – AI-powered mask detection using OpenCV and VGG16.  
-🔹 **[🎓 Student Admission Management System](https://github.com/pavani-1510/StudentAdmissionManagementSystem)** – Java-based web app for student admissions.  
-🔹 **[💳 Online Fraud Detection](https://github.com/pavani-1510/OnlineFraudDetection)** – Machine learning model for fraud detection.  
-🔹 **[📊 Placement Management System](https://github.com/pavani-1510)** – Spring Boot application for job tracking and interviews.  
 
 ---
 
