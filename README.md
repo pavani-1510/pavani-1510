@@ -1,7 +1,5 @@
 # R Pavani
 ---
-## Welcome! 👋 I'm R Pavani  
-
 🎓 **Computer Science Undergraduate | AI & Web Development Enthusiast**  
 
 I’m a third-year Computer Science student at KL University, passionate about **Artificial Intelligence, Web Development, Application Management, and exploring new technologies**. I love collaborating on innovative projects and contributing to open-source communities.  
