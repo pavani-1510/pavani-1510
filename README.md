@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center">  
-  🎓 <b>AI/ML Engineer | Full-Stack Developer | Problem Solver</b>  
+  🎓 <b>AI/ML Student | Computer Science Enthusiast | Problem Solver</b>  
 </p>  
 
 <p align="center">  
