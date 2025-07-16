@@ -17,24 +17,24 @@
 
 ## About Me  
 
-**CSE Undergraduate @ KL University** (CGPA: 8.99)  
-Passionate about **AI & ML**, **Cloud Computing**, and **Full-Stack Development**  
-**Currently exploring:** Generative AI | CyberSecurity | Advanced ML  
-Open to **collaborations** on impactful AI/ML & web projects  
-Fun fact: I once built a family website just for fun!  
+🎓 **CSE Undergraduate @ KL University** (CGPA: 8.9)  
+💡 Passionate about **AI & ML**, **Cloud Computing**, and **Full-Stack Development**  
+🌱 **Currently exploring:** Generative AI | Cloud Deployments | Advanced ML  
+🤝 Open to **collaborations** on impactful AI/ML & web projects  
+⚡ Fun fact: I once built a family website just for fun!  
 
 ---
 
 ##  Certifications  
 
-AWS Cloud Practitioner (2025)  
-Aviatrix Multicloud Network Associate (2025)  
-Salesforce AI Associate (2024)  
-Red Hat Enterprise App Developer (2024)  
-Oracle Cloud Generative AI Professional (2024)  
-Automation Anywhere RPA Professional (2024)  
-NPTEL: Intro to Machine Learning  
-NPTEL: Intro to ALgorithms  
+=> AWS Cloud Practitioner (2025)  
+=> Aviatrix Multicloud Network Associate (2025)  
+=> Salesforce AI Associate (2024)  
+=> Red Hat Enterprise App Developer (2024)  
+=> Oracle Cloud Generative AI Professional (2024)  
+=> Automation Anywhere RPA Professional (2024)  
+=> NPTEL: Intro to Machine Learning  
+=> NPTEL: Intro to ALgorithms  
 
 ---
 
