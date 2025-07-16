@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center">  
-  🎓 <b>AI/ML Student | Computer Science Enthusiast | Problem Solver</b>  
+  <b>AI/ML Student | Computer Science Enthusiast | Problem Solver</b>  
 </p>  
 
 <p align="center">  
@@ -15,32 +15,32 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
-🎓 **CSE Undergraduate @ KL University** (CGPA: 8.99)  
-💡 Passionate about **AI & ML**, **Cloud Computing**, and **Full-Stack Development**  
-🌱 **Currently exploring:** Generative AI | CyberSecurity | Advanced ML  
-🤝 Open to **collaborations** on impactful AI/ML & web projects  
-⚡ Fun fact: I once built a family website just for fun!  
-
----
-
-## 🏆 Certifications  
-
-✅ AWS Cloud Practitioner (2025)  
-✅ Aviatrix Multicloud Network Associate (2025)  
-✅ Salesforce AI Associate (2024)  
-✅ Red Hat Enterprise App Developer (2024)  
-✅ Oracle Cloud Generative AI Professional (2024)  
-✅ Automation Anywhere RPA Professional (2024)  
-✅ NPTEL: Intro to Machine Learning  
-✅ NPTEL: Intro to ALgorithms  
+**CSE Undergraduate @ KL University** (CGPA: 8.99)  
+Passionate about **AI & ML**, **Cloud Computing**, and **Full-Stack Development**  
+**Currently exploring:** Generative AI | CyberSecurity | Advanced ML  
+Open to **collaborations** on impactful AI/ML & web projects  
+Fun fact: I once built a family website just for fun!  
 
 ---
 
-## 💻 Tech Stack  
+##  Certifications  
 
-### 🚀 Languages  
+AWS Cloud Practitioner (2025)  
+Aviatrix Multicloud Network Associate (2025)  
+Salesforce AI Associate (2024)  
+Red Hat Enterprise App Developer (2024)  
+Oracle Cloud Generative AI Professional (2024)  
+Automation Anywhere RPA Professional (2024)  
+NPTEL: Intro to Machine Learning  
+NPTEL: Intro to ALgorithms  
+
+---
+
+## Tech Stack  
+
+###  Languages  
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
@@ -52,7 +52,7 @@
 
 ---
 
-### 🛠️ Frameworks & Tools  
+###  Frameworks & Tools  
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> 
@@ -65,7 +65,7 @@
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
 | Project | Description |
 |---------|-------------|
@@ -78,7 +78,7 @@
 
 ---
 
-## 📫 Let’s Connect!  
+## Let’s Connect!  
 
 🌐 **Portfolio:** [rpavani.pythonanywhere.com](https://rpavani.pythonanywhere.com/)  
 🔗 **LinkedIn:** [in/r-pavani](https://www.linkedin.com/in/r-pavani)  
@@ -86,5 +86,5 @@
 
 ---
 
-⭐ *Thanks for visiting my profile — feel free to explore my repositories and connect!*
+*Thanks for visiting my profile — feel free to explore my repositories and connect!*
 
