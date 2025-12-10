@@ -3,13 +3,12 @@
 </h1>  
 
 <p align="center">  
-  <b>AI/ML Student | Computer Science Enthusiast | Problem Solver</b>  
+  <b>AI/ML Student | Cyber Security Enthusiast </b>  
 </p>  
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/r-pavani"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
   <a href="mailto:pavanikangundi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
-  <a href="https://rpavani.pythonanywhere.com/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>  
   <a href="https://github.com/pavani-1510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
 </p>  
 
@@ -18,8 +17,7 @@
 ## About Me  
 
 🎓 **CSE Undergraduate @ KL University** (CGPA: 8.9)  
-💡 Passionate about **AI & ML**, **Cloud Computing**, and **Full-Stack Development**  
-🌱 **Currently exploring:** Generative AI | Cloud Deployments | Advanced ML  
+💡 Passionate about **AI & ML**, **Cyber Security**, and **Full-Stack Development**  
 🤝 Open to **collaborations** on impactful AI/ML & web projects  
 ⚡ Fun fact: I once built a family website just for fun!  
 
