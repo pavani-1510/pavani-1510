@@ -12,27 +12,6 @@
   <a href="https://github.com/pavani-1510"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
 </p>  
 
----
-
-## About Me  
-
-🎓 **CSE Undergraduate @ KL University** (CGPA: 8.9)  
-💡 Passionate about **AI & ML**, **Cyber Security**, and **Full-Stack Development**  
-🤝 Open to **collaborations** on impactful AI/ML & web projects  
-⚡ Fun fact: I once built a family website just for fun!  
-
----
-
-##  Certifications  
-
-=> AWS Cloud Practitioner (2025)  
-=> Aviatrix Multicloud Network Associate (2025)  
-=> Salesforce AI Associate (2024)  
-=> Red Hat Enterprise App Developer (2024)  
-=> Oracle Cloud Generative AI Professional (2024)  
-=> Automation Anywhere RPA Professional (2024)  
-=> NPTEL: Intro to Machine Learning  
-=> NPTEL: Intro to ALgorithms  
 
 ---
 
@@ -63,24 +42,8 @@
 
 ---
 
-## Featured Projects  
-
-| Project | Description |
-|---------|-------------|
-| [🧠 Brain Tumor Classification](https://github.com/pavani-1510/Brain_Tumor_Classification) | AI model classifying brain MRIs into 4 tumor types with 94%+ accuracy |
-| [💳 Online Fraud Detection](https://github.com/pavani-1510/OnlineFraudDetectionAWS) | SageMaker-powered fraud detection with real-time deployment |
-| [🎯 Placement Management System](https://github.com/pavani-1510) | Spring Boot app automating student–recruiter workflows |
-| [🎓 Student Admission System](https://github.com/pavani-1510/StudentAdmissionManagementSystem) | Java-based admissions app handling 200+ applications per cycle |
-| [📚 Online Book Store](https://github.com/pavani-1510/OnlineBookStore) | Django web app with dynamic inventory and admin controls |
-| [🛡️ Real-Time Face Mask Detection](https://github.com/pavani-1510/Real-Time-Face-Mask-Detection) | OpenCV + VGG16 system with 92% detection accuracy |
-
----
-
 ## Let’s Connect!  
 
 🔗 **LinkedIn:** [in/r-pavani](https://www.linkedin.com/in/r-pavani)  
 📧 **Email:** pavanikangundi@gmail.com  
 
----
-
-*Thanks for visiting my profile — feel free to explore my repositories and connect!*
